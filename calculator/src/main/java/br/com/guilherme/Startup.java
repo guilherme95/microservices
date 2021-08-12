@@ -1,4 +1,4 @@
-package br.com.guilherme.microservices;
+package br.com.guilherme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
