@@ -44,4 +44,7 @@ spring:
     schemas: book-service
     user: root
     password: mysql
-
+springdoc:
+  api-docs:
+    path: book-service/v3/api-docs
+  show-actuator: true
